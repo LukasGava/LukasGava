@@ -1,7 +1,7 @@
 # Hello 👋 My name is Lucas and I'm a Web Developer from Argentina  
 
 ## About Me  
-I am a student about to graduate from UnLaM (Universidad Nacional de La Matanza) in Web Development, with solid knowledge that allows me to build key skills to address organizational challenges and needs. My goal is to apply my technical expertise while contributing value to the company.
+I am a student from UnLaM (Universidad Nacional de La Matanza) in Web Development, I'm going to get my certificate this year, with solid knowledge that allows me to build key skills to address organizational challenges and needs. My goal is to apply my technical expertise while contributing value to the company.
 
 I am committed to my professional growth, always open to new challenges and continuous learning. Currently, I am improving my English through courses, and exploring technologies such as Microservices, AWS, and Docker with Spring Boot. My background also includes experience in Java, JavaScript, PHP, C#, Angular, Hibernate, and Bootstrap, which I use to develop practical and scalable solutions.
 
