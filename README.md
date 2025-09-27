@@ -9,7 +9,11 @@ I am committed to my professional growth, always open to new challenges and cont
 ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![Hibernate](https://skillicons.dev/icons?i=hibernate) ![Angular](https://skillicons.dev/icons?i=angular) ![Js](https://skillicons.dev/icons?i=js) ![Php](https://skillicons.dev/icons?i=php) ![C#](https://skillicons.dev/icons?i=cs) ![Html](https://skillicons.dev/icons?i=html) ![Css](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Spring](https://skillicons.dev/icons?i=spring) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Bash](https://skillicons.dev/icons?i=bash) ![Angular](https://skillicons.dev/icons?i=angular) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
 
 ## Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasGava&layout=compact&theme=radical)  
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavagnindl&layout=compact&theme=radical)
+
+</div>
 
 ## Connect with Me 
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail)](mailto:yourmail@gmail.com)  
