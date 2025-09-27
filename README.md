@@ -11,7 +11,7 @@ I am committed to my professional growth, always open to new challenges and cont
 ## Stats  
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavagnindl&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasGava&layout=compact&theme=radical)
 
 </div>
 
