@@ -1,14 +1,9 @@
 # Hello 👋 My name is Lucas and I'm a Web Developer from Argentina  
 
 ## About Me  
-I am a student about to graduate from **UnLaM (Universidad Nacional de La Matanza)** in Web Development, with strong technical knowledge that allows me to build scalable and practical solutions.  
-Passionate about software development, my goal is to apply my skills while continuously learning and growing as a professional.  
+I am a student about to graduate from UnLaM (Universidad Nacional de La Matanza) in Web Development, with solid knowledge that allows me to build key skills to address organizational challenges and needs. My goal is to apply my technical expertise while contributing value to the company.
 
-I am currently improving my **English** and exploring new technologies. I have experience working with:  
-- **Java, Spring Framework, Hibernate**  
-- **JavaScript, Angular**  
-- **PHP, C#**  
-- **HTML, CSS, Bootstrap**  
+I am committed to my professional growth, always open to new challenges and continuous learning. Currently, I am improving my English through courses, and exploring technologies such as Microservices, AWS, and Docker with Spring Boot. My background also includes experience in Java, JavaScript, PHP, C#, Angular, Hibernate, and Bootstrap, which I use to develop practical and scalable solutions.
 
 ## Technologies  
 ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![Hibernate](https://skillicons.dev/icons?i=hibernate) ![Angular](https://skillicons.dev/icons?i=angular) ![Js](https://skillicons.dev/icons?i=js) ![Php](https://skillicons.dev/icons?i=php) ![C#](https://skillicons.dev/icons?i=cs) ![Html](https://skillicons.dev/icons?i=html) ![Css](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Spring](https://skillicons.dev/icons?i=spring) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Bash](https://skillicons.dev/icons?i=bash) ![Angular](https://skillicons.dev/icons?i=angular) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
